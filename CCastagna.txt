@@ -1,0 +1,18 @@
+Commands for the four files:
+git init Lab3
+touch dog.txt
+touch cat.txt
+touch bird.txt
+touch fish.txt    //I will leave this one untracked
+git add dog.txt   //will be staged
+git add cat.txt //will be staged
+git commit -m “First commit for dog and cat files to be unmodified”    //dog.txt and cat.txt -> unmodified
+cat >> dog.txt  // now dog.txt is modified
+	This is the modification of dog.txt
+git add bird.txt     //bird.txt is staged
+
+My git hub account username:
+castachr
+
+My new repository:
+https://github.com/castachr/CISC275-Fall2018-first-git.git
